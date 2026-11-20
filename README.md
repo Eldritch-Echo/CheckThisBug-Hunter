@@ -1,4 +1,5 @@
 # CheckThisBug - Hunter
+[Open CheckThisBug - Hunter](https://eldritch-echo.github.io/CheckThisBug-Hunter/)
 
 [Leer en castellano ↓](#castellano)
 
@@ -43,6 +44,8 @@ CheckThisBug - Hunter was built for security research and education. Use it only
 #### Castellano
 
 # CheckThisBug - Hunter
+
+[Abrir CheckThisBug - Hunter](https://eldritch-echo.github.io/CheckThisBug-Hunter/)
 
 Checklist de bug bounty para revisiones web. Crea un proyecto por aplicación o dominio, recorre las familias de vulnerabilidades y marca qué has encontrado. Al terminar, puedes guardar un informe en PDF con un resumen de los resultados.
 
