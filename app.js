@@ -176,7 +176,9 @@ function render() {
     el('groups').append(group);
   }
   updateCounts();
-  el('footnote').textContent = t('Creada para la investigación y la formación en seguridad.', 'Built for security research and education.');
+  el('footnote').textContent = t(
+  'Creada por EldritchEcho para la investigación y la formación en seguridad.',
+  'Built by EldritchEcho for security research and education.');
   el('pdf').textContent = t('Guardar informe en PDF','Save PDF report');
 }
 el('theme').onclick = () => {
