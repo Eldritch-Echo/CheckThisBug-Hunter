@@ -1,6 +1,6 @@
 const base = self.registration.scope;
 const namespace = 'checkboxes:' + base + ':';
-const version = namespace + '7';
+const version = namespace + '9';
 const files = ['./','./index.html','./style.css','./app.js','./catalog.js','./icon-192.png','./icon-512.png','./app.webmanifest'];
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(version).then(cache => cache.addAll(files)));
